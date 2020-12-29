@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{5A4FB438-E0AB-DA9C-5AB2-CD8FCCF00826}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AdventureGame.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AdventureGame.cs" Line="10" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Playing with sprites" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="AdventureGame.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="12a51ccc-5225-4841-ad0c-e2aa9c13b520" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

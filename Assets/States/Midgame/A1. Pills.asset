@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e7b894a20fb8409981f8197f7e85a73, type: 3}
+  m_Name: A1. Pills
+  m_EditorClassIdentifier: 
+  storyText: 'Hello, this is Morneo.
+
+
+    I know it sounds strange to take pills
+    from a stranger, specially if he is a nigger, but the world depends on it.
+
+
+    1.
+    Take blue pill
+
+    2. Take red pill'
+  nextStates:
+  - {fileID: 11400000, guid: ef1d276e76d3848c185d0c54383ced81, type: 2}
+  - {fileID: 11400000, guid: 4c26e0ada4a974c8cb6b64f88e1a0346, type: 2}

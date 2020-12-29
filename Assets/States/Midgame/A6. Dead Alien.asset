@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e7b894a20fb8409981f8197f7e85a73, type: 3}
+  m_Name: A6. Dead Alien
+  m_EditorClassIdentifier: 
+  storyText: 'You stick the knife on her neck and her blood is green and stinks a
+    lot.
+
+
+    It abandons your mom''s body and you find out it was an alien.
+
+
+    You
+    manage to kill it, but suddenly you feel something weird on your leg.
+
+
+    You
+    look at it and you notice you have been bitten and you pass out.
+
+
+    1. Continue'
+  nextStates:
+  - {fileID: 11400000, guid: ef1d276e76d3848c185d0c54383ced81, type: 2}
